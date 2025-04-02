@@ -7,6 +7,21 @@
     <meta name="viewport" content=
         "width=device-width, initial-scale=1.0">
     <title>Калькулятор процентов</title>
+    <script>
+    (function (window, document, dataLayerName, containerID) {
+        window[dataLayerName] = window[dataLayerName] || [];
+        window[dataLayerName].push({ 'start': new Date().getTime(), event: 'actm-js' });
+        var firstScript = document.getElementsByTagName('script')[0];
+        var script = document.createElement('script');
+        var dl = dataLayerName !== 'acDataLayer' ? '&l=' + dataLayerName : '';
+        script.async = true;
+        script.src = 'https://pxl.ru.altkraft.com/actm/js/actm.js?id=' + containerID + dl;
+        script.type = 'module';
+        if (firstScript && firstScript.parentNode) {
+            firstScript.parentNode.insertBefore(script, firstScript);
+        }
+    }(window, document, 'acDataLayer', 'ATM-3SSXtbjf2UsmnC-Pg'));
+</script>
     <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 
@@ -22,7 +37,7 @@
 
         <!-- onclick event is to call the function when
             user click on the button-->
-        <button onclick="percentage_1()">Посчитать</button><br>
+        <button onclick="percentage_1()" class="poschetat">Посчитать</button><br>
 
             <!-- Read-only input field to display
             output and cannot be modified -->
