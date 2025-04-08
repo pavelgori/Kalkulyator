@@ -1,4 +1,5 @@
-{
+[
+    {
     "Client_ID": 1,
     "favorite": [
         {
@@ -29,4 +30,325 @@
             "inStock": false
         }
     ]
-}
+},
+    {
+    "Client_ID": 2,
+    "favorite": [
+        {
+             "title": "Искусство вышивки крестом",
+             "author": "Наталья Леонова",
+             "price": 506,
+             "genre": "хобби",
+             "ageRating": 16,
+             "userRating": 4.9,
+             "inStock": true
+        },
+        {
+            "title": "Деревообработка для начинающих",
+            "author": "Пол Ноубл",
+            "price": 742,
+            "genre": "хобби",
+            "ageRating": 18,
+            "userRating": 4.6,
+            "inStock": true
+        },
+         {
+            "title": "Садоводство круглый год",
+            "author": "Джеймс Уоррен",
+            "price": 434,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": false
+        }
+    ]
+    },
+        {
+    "Client_ID": 3,
+    "favorite": [
+        {
+             "title": "Искусство вышивки крестом",
+             "author": "Наталья Леонова",
+             "price": 506,
+             "genre": "хобби",
+             "ageRating": 16,
+             "userRating": 4.9,
+             "inStock": true
+        },
+        {
+            "title": "Деревообработка для начинающих",
+            "author": "Пол Ноубл",
+            "price": 742,
+            "genre": "хобби",
+            "ageRating": 18,
+            "userRating": 4.6,
+            "inStock": true
+        },
+         {
+            "title": "Садоводство круглый год",
+            "author": "Джеймс Уоррен",
+            "price": 434,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": false
+        }
+    ]
+    },
+        {
+    "Client_ID": 4,
+    "favorite": [
+        {
+             "title": "Искусство вышивки крестом",
+             "author": "Наталья Леонова",
+             "price": 506,
+             "genre": "хобби",
+             "ageRating": 16,
+             "userRating": 4.9,
+             "inStock": true
+        },
+        {
+            "title": "Деревообработка для начинающих",
+            "author": "Пол Ноубл",
+            "price": 742,
+            "genre": "хобби",
+            "ageRating": 18,
+            "userRating": 4.6,
+            "inStock": true
+        },
+         {
+            "title": "Садоводство круглый год",
+            "author": "Джеймс Уоррен",
+            "price": 434,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": false
+        }
+    ]
+    },
+        {
+    "Client_ID": 5,
+    "favorite": [
+        {
+             "title": "Искусство вышивки крестом",
+             "author": "Наталья Леонова",
+             "price": 506,
+             "genre": "хобби",
+             "ageRating": 16,
+             "userRating": 4.9,
+             "inStock": true
+        },
+        {
+            "title": "Деревообработка для начинающих",
+            "author": "Пол Ноубл",
+            "price": 742,
+            "genre": "хобби",
+            "ageRating": 18,
+            "userRating": 4.6,
+            "inStock": true
+        },
+         {
+            "title": "Садоводство круглый год",
+            "author": "Джеймс Уоррен",
+            "price": 434,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": false
+        }
+    ]
+    },
+        {
+    "Client_ID": 6,
+    "favorite": [
+        {
+             "title": "Искусство вышивки крестом",
+             "author": "Наталья Леонова",
+             "price": 506,
+             "genre": "хобби",
+             "ageRating": 16,
+             "userRating": 4.9,
+             "inStock": true
+        },
+        {
+            "title": "Деревообработка для начинающих",
+            "author": "Пол Ноубл",
+            "price": 742,
+            "genre": "хобби",
+            "ageRating": 18,
+            "userRating": 4.6,
+            "inStock": true
+        },
+         {
+            "title": "Садоводство круглый год",
+            "author": "Джеймс Уоррен",
+            "price": 434,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": false
+        }
+    ]
+    },
+        {
+    "Client_ID": 7,
+    "favorite": [
+        {
+             "title": "Искусство вышивки крестом",
+             "author": "Наталья Леонова",
+             "price": 506,
+             "genre": "хобби",
+             "ageRating": 16,
+             "userRating": 4.9,
+             "inStock": true
+        },
+        {
+            "title": "Деревообработка для начинающих",
+            "author": "Пол Ноубл",
+            "price": 742,
+            "genre": "хобби",
+            "ageRating": 18,
+            "userRating": 4.6,
+            "inStock": true
+        },
+         {
+            "title": "Садоводство круглый год",
+            "author": "Джеймс Уоррен",
+            "price": 434,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": false
+        }
+    ]
+    },
+        {
+    "Client_ID": 8,
+    "favorite": [
+        {
+             "title": "Искусство вышивки крестом",
+             "author": "Наталья Леонова",
+             "price": 506,
+             "genre": "хобби",
+             "ageRating": 16,
+             "userRating": 4.9,
+             "inStock": true
+        },
+        {
+            "title": "Деревообработка для начинающих",
+            "author": "Пол Ноубл",
+            "price": 742,
+            "genre": "хобби",
+            "ageRating": 18,
+            "userRating": 4.6,
+            "inStock": true
+        },
+         {
+            "title": "Садоводство круглый год",
+            "author": "Джеймс Уоррен",
+            "price": 434,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": false
+        }
+    ]
+    },
+        {
+    "Client_ID": 9,
+    "favorite": [
+        {
+             "title": "Искусство вышивки крестом",
+             "author": "Наталья Леонова",
+             "price": 506,
+             "genre": "хобби",
+             "ageRating": 16,
+             "userRating": 4.9,
+             "inStock": true
+        },
+        {
+            "title": "Деревообработка для начинающих",
+            "author": "Пол Ноубл",
+            "price": 742,
+            "genre": "хобби",
+            "ageRating": 18,
+            "userRating": 4.6,
+            "inStock": true
+        },
+         {
+            "title": "Садоводство круглый год",
+            "author": "Джеймс Уоррен",
+            "price": 434,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": false
+        }
+    ]
+    },
+        {
+    "Client_ID": 10,
+    "favorite": [
+        {
+             "title": "Искусство вышивки крестом",
+             "author": "Наталья Леонова",
+             "price": 506,
+             "genre": "хобби",
+             "ageRating": 16,
+             "userRating": 4.9,
+             "inStock": true
+        },
+        {
+            "title": "Деревообработка для начинающих",
+            "author": "Пол Ноубл",
+            "price": 742,
+            "genre": "хобби",
+            "ageRating": 18,
+            "userRating": 4.6,
+            "inStock": true
+        },
+         {
+            "title": "Садоводство круглый год",
+            "author": "Джеймс Уоррен",
+            "price": 434,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": false
+        }
+    ]
+    },
+        {
+    "Client_ID": 11,
+    "favorite": [
+        {
+             "title": "Искусство вышивки крестом",
+             "author": "Наталья Леонова",
+             "price": 506,
+             "genre": "хобби",
+             "ageRating": 16,
+             "userRating": 4.9,
+             "inStock": true
+        },
+        {
+            "title": "Деревообработка для начинающих",
+            "author": "Пол Ноубл",
+            "price": 742,
+            "genre": "хобби",
+            "ageRating": 18,
+            "userRating": 4.6,
+            "inStock": true
+        },
+         {
+            "title": "Садоводство круглый год",
+            "author": "Джеймс Уоррен",
+            "price": 434,
+            "genre": "хобби",
+            "ageRating": 16,
+            "userRating": 3.6,
+            "inStock": false
+        }
+    ]
+    }
+]
