@@ -1,5 +1,5 @@
 {
-    "Catalog": [
+    "Client_ID": [ 1
         {
             "title": "Искусство вышивки крестом",
             "author": "Наталья Леонова",
@@ -7,10 +7,7 @@
             "genre": "хобби",
             "ageRating": 16,
             "userRating": 4.9,
-            "inStock": true,
-            "Client_ID": [
-              1, 2, 3, 4, 5
-            ]
+            "inStock": true
         },
         {
             "title": "Деревообработка для начинающих",
@@ -19,10 +16,7 @@
             "genre": "хобби",
             "ageRating": 18,
             "userRating": 4.6,
-            "inStock": true,
-            "Client_ID": [
-              5, 6, 7, 8
-            ]
+            "inStock": true
         },
         {
             "title": "Садоводство круглый год",
@@ -31,10 +25,7 @@
             "genre": "хобби",
             "ageRating": 16,
             "userRating": 3.6,
-            "inStock": false,
-            "Client_ID": [
-              5
-            ]
+            "inStock": false
         },
         {
             "title": "7 навыков высокоэффективных людей",
@@ -43,10 +34,7 @@
             "genre": "саморазвитие",
             "ageRating": 6,
             "userRating": 4.0,
-            "inStock": false,
-            "Client_ID": [
-              1
-            ]
+            "inStock": false
         },
         {
             "title": "Магия утра",
@@ -55,10 +43,7 @@
             "genre": "саморазвитие",
             "ageRating": 18,
             "userRating": 3.9,
-            "inStock": false,
-            "Client_ID": [
-              10, 11
-            ]
+            "inStock": false
         },
         {
             "title": "Думай и богатей",
@@ -67,10 +52,7 @@
             "genre": "саморазвитие",
             "ageRating": 12,
             "userRating": 4.7,
-            "inStock": true,
-            "Client_ID": [
-              1, 5, 10, 11
-            ]
+            "inStock": true
         },
         {
             "title": "Игры, в которые играют люди",
@@ -79,10 +61,7 @@
             "genre": "психология",
             "ageRating": 12,
             "userRating": 4.6,
-            "inStock": true,
-            "Client_ID": [
-              11
-            ]
+            "inStock": true
         },
         {
             "title": "Психология влияния",
@@ -91,10 +70,7 @@
             "genre": "психология",
             "ageRating": 6,
             "userRating": 4.0,
-            "inStock": true,
-            "Client_ID": ]
-              
-            ]
+            "inStock": true
         },
         {
             "title": "Мужчины с Марса, женщины с Венеры",
@@ -103,10 +79,7 @@
             "genre": "психология",
             "ageRating": 12,
             "userRating": 4.2,
-            "inStock": false,
-            "Client_ID": ]
-              
-            ]
+            "inStock": false
         },
         {
             "title": "История инженерии",
@@ -115,10 +88,7 @@
             "genre": "техника",
             "ageRating": 16,
             "userRating": 4.0,
-            "inStock": false,
-            "Client_ID": ]
-              
-            ]
+            "inStock": false
         },
         {
             "title": "Как работает автомобиль",
@@ -127,10 +97,7 @@
             "genre": "техника",
             "ageRating": 18,
             "userRating": 3.9,
-            "inStock": false,
-            "Client_ID": ]
-              
-            ]
+            "inStock": false
         },
         {
             "title": "Робототехника для начинающих",
@@ -139,10 +106,7 @@
             "genre": "техника",
             "ageRating": 12,
             "userRating": 4.5,
-            "inStock": true,
-            "Client_ID": ]
-              
-            ]
+            "inStock": true
         },
         {
             "title": "Краткая история времени",
@@ -151,10 +115,18 @@
             "genre": "наука",
             "ageRating": 18,
             "userRating": 5.0,
-            "inStock": false,
-            "Client_ID": ]
-              
-            ]
+            "inStock": false
+        }
+    ],
+    [ 2
+    {
+        "title": "Искусство вышивки крестом",
+        "author": "Наталья Леонова",
+        "price": 506,
+        "genre": "хобби",
+        "ageRating": 16,
+        "userRating": 4.9,
+        "inStock": true
         }
     ]
 }
