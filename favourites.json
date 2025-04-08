@@ -1,6 +1,6 @@
 {
-    "Client_ID": [ 1
-        {
+    "Client_ID": {
+        1 {
             "title": "Искусство вышивки крестом",
             "author": "Наталья Леонова",
             "price": 506,
@@ -9,6 +9,7 @@
             "userRating": 4.9,
             "inStock": true
         },
+    2
         {
             "title": "Деревообработка для начинающих",
             "author": "Пол Ноубл",
@@ -18,6 +19,7 @@
             "userRating": 4.6,
             "inStock": true
         },
+3
         {
             "title": "Садоводство круглый год",
             "author": "Джеймс Уоррен",
@@ -27,6 +29,7 @@
             "userRating": 3.6,
             "inStock": false
         },
+4
         {
             "title": "7 навыков высокоэффективных людей",
             "author": "Стивен Кови",
@@ -36,6 +39,7 @@
             "userRating": 4.0,
             "inStock": false
         },
+5
         {
             "title": "Магия утра",
             "author": "Хэл Элрод",
@@ -45,6 +49,7 @@
             "userRating": 3.9,
             "inStock": false
         },
+6
         {
             "title": "Думай и богатей",
             "author": "Наполеон Хилл",
@@ -54,6 +59,7 @@
             "userRating": 4.7,
             "inStock": true
         },
+7
         {
             "title": "Игры, в которые играют люди",
             "author": "Эрик Берн",
@@ -63,6 +69,7 @@
             "userRating": 4.6,
             "inStock": true
         },
+8
         {
             "title": "Психология влияния",
             "author": "Роберт Чалдини",
@@ -72,6 +79,7 @@
             "userRating": 4.0,
             "inStock": true
         },
+9
         {
             "title": "Мужчины с Марса, женщины с Венеры",
             "author": "Джон Грэй",
@@ -81,6 +89,7 @@
             "userRating": 4.2,
             "inStock": false
         },
+10
         {
             "title": "История инженерии",
             "author": "Джеймс Харрисон",
@@ -90,6 +99,7 @@
             "userRating": 4.0,
             "inStock": false
         },
+11
         {
             "title": "Как работает автомобиль",
             "author": "Том Ньютон",
@@ -99,6 +109,7 @@
             "userRating": 3.9,
             "inStock": false
         },
+12
         {
             "title": "Робототехника для начинающих",
             "author": "Сара Коннор",
@@ -108,6 +119,7 @@
             "userRating": 4.5,
             "inStock": true
         },
+13
         {
             "title": "Краткая история времени",
             "author": "Стивен Хокинг",
@@ -116,9 +128,8 @@
             "ageRating": 18,
             "userRating": 5.0,
             "inStock": false
-        }
-    ],
-    [ 2
+        },
+14
     {
         "title": "Искусство вышивки крестом",
         "author": "Наталья Леонова",
@@ -128,5 +139,5 @@
         "userRating": 4.9,
         "inStock": true
         }
-    ]
+    }
 }
