@@ -8,9 +8,9 @@
             "ageRating": 16,
             "userRating": 4.9,
             "inStock": true,
-            "Client_ID": {
+            "Client_ID": [
               1, 2, 3, 4, 5
-            }
+            ]
         },
         {
             "title": "Деревообработка для начинающих",
@@ -20,9 +20,9 @@
             "ageRating": 18,
             "userRating": 4.6,
             "inStock": true,
-            "Client_ID": {
+            "Client_ID": [
               5, 6, 7, 8
-            }
+            ]
         },
         {
             "title": "Садоводство круглый год",
@@ -32,9 +32,9 @@
             "ageRating": 16,
             "userRating": 3.6,
             "inStock": false,
-            "Client_ID": {
+            "Client_ID": [
               5
-            }
+            ]
         },
         {
             "title": "7 навыков высокоэффективных людей",
@@ -44,9 +44,9 @@
             "ageRating": 6,
             "userRating": 4.0,
             "inStock": false,
-            "Client_ID": {
+            "Client_ID": [
               1
-            }
+            ]
         },
         {
             "title": "Магия утра",
@@ -56,9 +56,9 @@
             "ageRating": 18,
             "userRating": 3.9,
             "inStock": false,
-            "Client_ID": {
+            "Client_ID": [
               10, 11
-            }
+            ]
         },
         {
             "title": "Думай и богатей",
@@ -68,9 +68,9 @@
             "ageRating": 12,
             "userRating": 4.7,
             "inStock": true,
-            "Client_ID": {
+            "Client_ID": [
               1, 5, 10, 11
-            }
+            ]
         },
         {
             "title": "Игры, в которые играют люди",
@@ -80,9 +80,9 @@
             "ageRating": 12,
             "userRating": 4.6,
             "inStock": true,
-            "Client_ID": {
+            "Client_ID": [
               11
-            }
+            ]
         },
         {
             "title": "Психология влияния",
@@ -92,9 +92,9 @@
             "ageRating": 6,
             "userRating": 4.0,
             "inStock": true,
-            "Client_ID": {
+            "Client_ID": ]
               
-            }
+            ]
         },
         {
             "title": "Мужчины с Марса, женщины с Венеры",
@@ -104,9 +104,9 @@
             "ageRating": 12,
             "userRating": 4.2,
             "inStock": false,
-            "Client_ID": {
+            "Client_ID": ]
               
-            }
+            ]
         },
         {
             "title": "История инженерии",
@@ -116,9 +116,9 @@
             "ageRating": 16,
             "userRating": 4.0,
             "inStock": false,
-            "Client_ID": {
+            "Client_ID": ]
               
-            }
+            ]
         },
         {
             "title": "Как работает автомобиль",
@@ -128,9 +128,9 @@
             "ageRating": 18,
             "userRating": 3.9,
             "inStock": false,
-            "Client_ID": {
+            "Client_ID": ]
               
-            }
+            ]
         },
         {
             "title": "Робототехника для начинающих",
@@ -140,9 +140,9 @@
             "ageRating": 12,
             "userRating": 4.5,
             "inStock": true,
-            "Client_ID": {
+            "Client_ID": ]
               
-            }
+            ]
         },
         {
             "title": "Краткая история времени",
@@ -152,9 +152,9 @@
             "ageRating": 18,
             "userRating": 5.0,
             "inStock": false,
-            "Client_ID": {
+            "Client_ID": ]
               
-            }
+            ]
         }
     ]
 }
