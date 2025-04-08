@@ -1,5 +1,5 @@
-[
-    "clients":
+{
+    "clients": [
     {
     "Client_ID": 1,
     "favorite": [
@@ -352,4 +352,5 @@
         }
     ]
     }
-]
+    ]
+}
